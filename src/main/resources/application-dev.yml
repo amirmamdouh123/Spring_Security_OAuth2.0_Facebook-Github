@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@161.97.82.42:1521:nidb
+    username: bpm_configuration
+    password: mtsbpm2016
+#  security:
+#    oauth2:
+#      client:
+#        registration:
+#          github:
+#            client-id: 347d9096694e93c39e99
+#            client-secret: 7bbd61545cf0b5433154ea5305a7debe1369bfe3
+#
